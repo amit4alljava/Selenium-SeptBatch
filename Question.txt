@@ -1,0 +1,10 @@
+1. WAP to Enter the Salary of Employee
+double salary ;
+
+Compute the HRA, DA , TA and Gross Salary
+HRA -30 % of the Salary
+TA - 20% of the Salary
+DA - 10% of the Salary
+GS = Salary + HRA + TA + DA;
+
+Arithmetic Operator + , - , * , / , %
